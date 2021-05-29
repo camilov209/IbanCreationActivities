@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A76FC168-18DA-4393-875D-FAD201FD8795}|Default">
+  <MonoDevelop.Ide.ItemProperties.IbangCreationActivities FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IbangCreationActivities/Controllers/UserController.cs">
+    <Files>
+      <File FileName="IbangCreationActivities/Contexts/AppDbContext.cs" Line="18" Column="1" />
+      <File FileName="IbangCreationActivities/IbangCreationActivities.csproj" Line="1" Column="1" />
+      <File FileName="IbangCreationActivities/Entities/User.cs" Line="1" Column="1" />
+      <File FileName="IbangCreationActivities/Controllers/UserController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IbangCreationActivities" expanded="True">
+            <Node name="IbangCreationActivities" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
